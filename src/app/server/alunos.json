@@ -1,0 +1,24 @@
+{
+  "alunos": [
+    {
+      "nome": "Rhuan",
+      "idade": "30",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Giselle",
+      "idade": 30
+    },
+    {
+      "id": 3,
+      "nome": "Rutte",
+      "idade": 30
+    },
+    {
+      "id": 4,
+      "nome": "Matheus",
+      "idade": 30
+    }
+  ]
+}
